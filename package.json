@@ -1,0 +1,33 @@
+{
+  "name": "portafolio-marissa",
+  "version": "1.0.0",
+  "description": "Un portafolio web elegante y moderno con tema de gatos",
+  "main": "public/index.html",
+  "scripts": {
+    "start": "cd public && python -m http.server 8000",
+    "dev": "cd public && python -m http.server 8000",
+    "serve": "cd public && python -m http.server 8000"
+  },
+  "keywords": [
+    "portafolio",
+    "web",
+    "html",
+    "css",
+    "javascript",
+    "bootstrap",
+    "responsive",
+    "dark-mode"
+  ],
+  "author": "Marissa",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tu-usuario/portafolio-marissa.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tu-usuario/portafolio-marissa/issues"
+  },
+  "homepage": "https://tu-usuario.github.io/portafolio-marissa",
+  "devDependencies": {},
+  "dependencies": {}
+} 

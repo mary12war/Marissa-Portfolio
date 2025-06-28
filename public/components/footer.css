@@ -1,0 +1,13 @@
+.footer {
+  background: linear-gradient(90deg, #6a0572 0%, #a18cd1 100%);
+  font-size: 1.1rem;
+  letter-spacing: 1px;
+  border-top-left-radius: 2rem;
+  border-top-right-radius: 2rem;
+  box-shadow: 0 -2px 16px #a18cd144;
+}
+.footer-paws .cat-paw {
+  font-size: 2em;
+  margin: 0 0.2em;
+  filter: drop-shadow(0 0 6px #fff8);
+} 

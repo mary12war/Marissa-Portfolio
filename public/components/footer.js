@@ -1,0 +1,1 @@
+// JS para el footer reutilizable (puedes agregar funciones aquí si lo necesitas) 
