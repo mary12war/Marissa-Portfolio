@@ -140,4 +140,13 @@ body.dark-mode .nav-link, body.dark-mode .header-link {
 body.dark-mode .nav-link:hover, body.dark-mode .header-link:hover {
   color: #ffe6ff !important;
   background: rgba(255,255,255,0.08);
-} 
+}
+
+/* Tonos personalizados de morado para las progress bars de habilidades */
+.bg-purple-1 { background-color: #a259e6 !important; }
+.bg-purple-2 { background-color: #8f43c7 !important; }
+.bg-purple-3 { background-color: #7c3fa0 !important; }
+.bg-purple-4 { background-color: #6d2e8a !important; }
+.bg-purple-5 { background-color: #5a217a !important; }
+.bg-purple-6 { background-color: #4b1866 !important; }
+.bg-purple-7 { background-color: #39104a !important; } 
